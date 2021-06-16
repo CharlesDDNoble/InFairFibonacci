@@ -11,15 +11,15 @@ and debugging SPL, check it out. It uses python to parse and run SPL, so any mac
 
 ## Running the program
 The program can be run using Shakespearelang with the following command:
-`
+```
   shakespeare run infairfibonacci.spl
-`
+```
 It expects 1 integer input n, and will output the nth fibonacci number.
 
-`
+```
 Desktop>shakespeare run infairfibonacci.spl
 >6
 8
-`
+```
 
 Pretty simple, it's the code that the fun part! Check out the source!
